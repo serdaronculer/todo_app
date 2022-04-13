@@ -35,7 +35,7 @@ Here you see the mobile preview of the project.
 
 [Screen Util](https://pub.dev/packages/flutter_screenutil) : A flutter plugin for adapting screen and font size
 
-[Flutter Datetime Picker](A date time picker for flutter) : A date time picker for flutter
+[Flutter Datetime Picker](https://pub.dev/packages/flutter_datetime_picker) : A date time picker for flutter
 
 
 
